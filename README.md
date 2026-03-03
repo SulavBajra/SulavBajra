@@ -2,7 +2,7 @@
 
 <div align="center">
   
-### 🚀 Backend Developer | Laravel Enthusiast | Open Source Contributor
+### Backend Developer | Laravel | Spring Boot | React
 
 [![Email](https://img.shields.io/badge/Email-bajracharyasulav76%40gmail.com-red?style=flat-square&logo=gmail)](mailto:bajracharyasulav76@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/SulavBajra?label=Follow&style=social)](https://github.com/SulavBajra)
