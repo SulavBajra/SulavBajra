@@ -1,72 +1,110 @@
-# 👋 Hi there, I'm Sulav Bajracharya (@SulavBajra)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=220&section=header&text=Sulav%20Bajracharya&fontSize=52&fontColor=e94560&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Laravel%20%C2%B7%20Spring%20Boot%20%C2%B7%20React&descAlignY=58&descColor=a8b2d8" alt="Sulav Bajracharya" />
+</div>
+
+<br/>
 
 <div align="center">
-  
-### Backend Developer | Laravel | Spring Boot | React
-
-[![Email](https://img.shields.io/badge/Email-bajracharyasulav76%40gmail.com-red?style=flat-square&logo=gmail)](mailto:bajracharyasulav76@gmail.com)
-[![GitHub followers](https://img.shields.io/github/followers/SulavBajra?label=Follow&style=social)](https://github.com/SulavBajra)
-
+  <a href="mailto:bajracharyasulav76@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-bajracharyasulav76-e94560?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/SulavBajra">
+    <img src="https://img.shields.io/github/followers/SulavBajra?label=Followers&style=flat-square&color=0f3460&logo=github" alt="GitHub followers" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+    <img src="https://img.shields.io/badge/LinkedIn-Sulav%20Bajracharya-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=SulavBajra&style=flat-square&color=e94560&label=Profile+Views" alt="Profile views" />
 </div>
+
+<br/>
 
 ---
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 
-- 🎯 **Focus**: Backend Development with a passion for building scalable applications
-- 🌱 **Currently Learning**: Laravel framework and modern PHP practices
-- 💼 **Looking to Collaborate**: Laravel, Spring Framework, React projects
-- 📫 **Reach Me**: bajracharyasulav76@gmail.com
-- 💡 **Interests**: API Development, Microservices, Database Design
+> *Full Stack Developer from Nepal 🇳🇵 — passionate about building clean, scalable, and maintainable systems.*
+
+I enjoy designing backend architectures, crafting REST APIs, and exploring how distributed systems communicate at scale.
+
+| 🔭 | Currently deepening expertise in **Laravel** & **Spring Boot** |
+|---|---|
+| 🌱 | Learning **Microservices**, **Docker** & **System Design** |
+| 🤝 | Open to **Open Source** & **backend-heavy** collaborations |
+| 💬 | Ask me about **REST APIs**, **backend architecture**, **database design** |
+| ⚡ | Fun fact: I enjoy *breaking monoliths into elegant microservices* |
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+### 💬 Languages
 
-### Frameworks & Libraries
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Inertia.js](https://img.shields.io/badge/Inertia.js-9553E9?style=for-the-badge&logo=inertia&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+</p>
 
-### Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+### 🚀 Frameworks & Libraries
 
----
+<p>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Inertia.js-9553E9?style=for-the-badge&logo=inertia&logoColor=white" alt="Inertia.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+</p>
 
-## 🎯 Current Goals
+### 🗄️ Databases & DevOps
 
-- 🔨 Building robust backend systems with Laravel
-- 📚 Deepening knowledge in Spring Framework
-- 🤝 Contributing to open-source projects
-- 🌐 Exploring full-stack development with React
+<p>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
 
----
+### 🔧 Tools
 
-## 🤝 Let's Connect!
-
-I'm always open to interesting conversations and collaboration opportunities. Feel free to reach out!
-
-- 📧 Email: bajracharyasulav76@gmail.com
-- 💼 Open to: Backend projects, Open Source contributions, Collaboration
+<p>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white" alt="Composer" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+</p>
 
 ---
 
-<!---
-SulavBajra/SulavBajra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🤝 Let's Connect
+
+<div align="center">
+
+*I'm always open to backend projects, open-source collaboration, or an interesting tech discussion.*
+
+<br/>
+
+a href="mailto:bajracharyasulav76@gmail.com">
+  <img src="https://img.shields.io/badge/Email%20Me-e94560?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+&nbsp;
+<a href="https://github.com/SulavBajra">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=120&section=footer" alt="Footer" />
+</div>
