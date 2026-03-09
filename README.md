@@ -2,14 +2,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=220&section=header&text=Sulav%20Bajracharya&fontSize=52&fontColor=e94560&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Laravel%20%C2%B7%20Spring%20Boot%20%C2%B7%20React&descAlignY=58&descColor=a8b2d8" alt="Sulav Bajracharya" />
 </div>
 
-<br/>
-
 <div align="center">
   <a href="mailto:bajracharyasulav76@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-bajracharyasulav76-e94560?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+  <a href="https://www.linkedin.com/in/sulav-bajracharya">
     <img src="https://img.shields.io/badge/LinkedIn-Sulav%20Bajracharya-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
@@ -20,7 +18,6 @@
 
 ## 👨‍💻 About Me
 
-> *Full Stack Developer from Nepal 🇳🇵 — passionate about building clean, scalable, and maintainable systems.*
 
 I enjoy designing backend architectures, crafting REST APIs, and exploring how distributed systems communicate at scale.
 
