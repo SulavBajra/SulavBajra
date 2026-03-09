@@ -8,16 +8,10 @@
   <a href="mailto:bajracharyasulav76@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-bajracharyasulav76-e94560?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  &nbsp;
-  <a href="https://github.com/SulavBajra">
-    <img src="https://img.shields.io/github/followers/SulavBajra?label=Followers&style=flat-square&color=0f3460&logo=github" alt="GitHub followers" />
-  </a>
-  &nbsp;
+
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
     <img src="https://img.shields.io/badge/LinkedIn-Sulav%20Bajracharya-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=SulavBajra&style=flat-square&color=e94560&label=Profile+Views" alt="Profile views" />
 </div>
 
 <br/>
@@ -35,7 +29,6 @@ I enjoy designing backend architectures, crafting REST APIs, and exploring how d
 | 🌱 | Learning **Microservices**, **Docker** & **System Design** |
 | 🤝 | Open to **Open Source** & **backend-heavy** collaborations |
 | 💬 | Ask me about **REST APIs**, **backend architecture**, **database design** |
-| ⚡ | Fun fact: I enjoy *breaking monoliths into elegant microservices* |
 
 ---
 
@@ -89,7 +82,7 @@ I enjoy designing backend architectures, crafting REST APIs, and exploring how d
 
 <br/>
 
-a href="mailto:bajracharyasulav76@gmail.com">
+<a href="mailto:bajracharyasulav76@gmail.com">
   <img src="https://img.shields.io/badge/Email%20Me-e94560?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 &nbsp;
@@ -97,7 +90,7 @@ a href="mailto:bajracharyasulav76@gmail.com">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 &nbsp;
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<a href="https://www.linkedin.com/in/sulav-bajracharya">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
@@ -105,6 +98,3 @@ a href="mailto:bajracharyasulav76@gmail.com">
 
 <br/>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=120&section=footer" alt="Footer" />
-</div>
